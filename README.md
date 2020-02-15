@@ -1,4 +1,5 @@
 #Image Compressor Python
+
 ###Simple image compressor using PIL
 
 Hi !
